@@ -932,6 +932,20 @@ section.hero .bio li::before {
   font-weight: 600;
 }
 
+section.hero .bio .bio-extra {
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px dashed var(--border);
+  font-size: 20px;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
+section.hero .bio .bio-extra strong {
+  color: var(--brand);
+  font-weight: 600;
+}
+
 /* ===== QUOTE/AFTER (O4 before→after) ===== */
 section.beforeafter {
   text-align: center;
