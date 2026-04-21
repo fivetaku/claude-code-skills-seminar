@@ -47,7 +47,7 @@ Speaker note (O1 · 00:00~01:00):
 # 클코대장<br/>**지피타쿠** — 이철로
 
 - 현) **AX with** — AX 컨설팅 & AI 교육
-- 현) **cc101.axwith.com** — 한국어 Claude Code 가이드
+- 현) **CC101** (cc101.axwith.com)<br/>가이드 제작·배포로 일반인·비개발 직무의 Claude Code 활용 지원
 - 현) **1인 개발자** — AI 기반 서비스
 - 전) **R&D 기계 엔지니어 10년**<br/>GENTLE MONSTER · LG INNOTEK
 
