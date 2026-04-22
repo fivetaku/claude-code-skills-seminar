@@ -524,7 +524,6 @@ Claude Code, 꼭 한 번 써보세요.
 
 <div class="benefits">
   <div class="line">🔥 당일 라이브 접속자 한정 · <strong>3만원 특별 할인</strong></div>
-  <div class="line">🎁 세미나 '신청자' 전원 · <strong>최대 할인 쿠폰</strong> <em>(Zoom에서 공개)</em></div>
 </div>
 
 <!--
